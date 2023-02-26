@@ -14,7 +14,7 @@ Projeto criado para simular um teclado instrumental. Comn intuito de ao clicar r
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/> - JS
 
 #
-## Considerações
+## Considerações 🚧
 
 - Para visualizar o site acesse o link: https://piano-estherluize.netlify.app
  
